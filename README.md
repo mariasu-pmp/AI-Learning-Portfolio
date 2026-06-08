@@ -5,4 +5,5 @@ My background is in healthcare operations, graduate research, and quality improv
 1. Claude System Card Review
 2. AI Safety Evaluation Brief
 3. Introduction to Retrieval-Augmented Generation (RAG)
+   
 These projects are intended as learning artifacts rather than original research contributions.
