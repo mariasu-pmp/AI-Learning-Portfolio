@@ -1,11 +1,11 @@
-Claude System Card Review
+# Claude System Card Review
 
-Purpose
+## Purpose
 
 As frontier AI models become increasingly capable, AI developers face growing responsibility to communicate both model capabilities and limitations. Anthropic addresses this challenge by publishing system cards that provide transparency into model evaluations, safety testing, and deployment decisions.
 This review examines the purpose of system cards, the types of evaluations they contain, and the operational challenges associated with producing them.
 
-What Is a System Card?
+## What Is a System Card?
 
 A system card is a technical document published alongside a model release. It provides information about:
 
@@ -18,23 +18,23 @@ A system card is a technical document published alongside a model release. It pr
 
 System cards serve as an accountability mechanism by documenting the evidence supporting claims about model behavior.
 
-Capability Evaluations
+## Capability Evaluations
 
 System cards typically include evaluations related to:
 
-Reasoning
+### Reasoning
 
 Researchers assess how effectively a model performs multi-step reasoning tasks and follows complex instructions.
 
-Coding
+### Coding
 
 Models may be evaluated on code generation, debugging, and software engineering tasks.
 
-Tool Use
+### Tool Use
 
 Advanced models increasingly interact with external tools, requiring evaluation of both effectiveness and reliability.
 
-Safety Evaluations
+### Safety Evaluations
 
 Safety evaluations examine how models behave under challenging or adversarial conditions.
 
@@ -47,11 +47,11 @@ Examples include:
 
 These evaluations help identify risks before deployment.
 
-Research Operations Perspective
+## Research Operations Perspective
 
 Producing a system card requires coordination among multiple teams, including researchers, evaluators, policy specialists, and product teams.
 
-Key operational challenges include:
+## Key operational challenges include:
 
 - Managing review cycles
 - Maintaining version control
@@ -61,15 +61,15 @@ Key operational challenges include:
 
 The process highlights the importance of strong research operations and technical documentation practices.
 
-Key Takeaways
+## Key Takeaways
 
 System cards provide transparency into how frontier AI systems are evaluated and deployed. They require both technical expertise and effective cross-functional coordination to ensure findings are communicated accurately and consistently.
 
-Personal Reflection
+## Personal Reflection
 
 Coming from healthcare quality improvement, I was struck by the similarities between AI system cards and healthcare reporting practices. Both require organizations to communicate evidence, uncertainty, limitations, and risk to diverse stakeholders. Reviewing system cards helped me better understand how AI developers communicate model capabilities and safety considerations to the public.
 
-References
+## References
 
 - Anthropic System Cards
 - Anthropic Safety Documentation
