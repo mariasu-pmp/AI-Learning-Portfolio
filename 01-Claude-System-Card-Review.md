@@ -9,12 +9,12 @@ What Is a System Card?
 
 A system card is a technical document published alongside a model release. It provides information about:
 
-Model capabilities
-Safety evaluations
-Testing methodologies
-Risk mitigation strategies
-Known limitations
-Deployment decisions
+- Model capabilities
+- Safety evaluations
+- Testing methodologies
+- Risk mitigation strategies
+- Known limitations
+- Deployment decisions
 
 System cards serve as an accountability mechanism by documenting the evidence supporting claims about model behavior.
 
@@ -40,10 +40,10 @@ Safety evaluations examine how models behave under challenging or adversarial co
 
 Examples include:
 
-Harmful content generation
-Jailbreak attempts
-Misuse potential
-Deceptive behavior
+- Harmful content generation
+- Jailbreak attempts
+- Misuse potential
+- Deceptive behavior
 
 These evaluations help identify risks before deployment.
 
@@ -53,11 +53,11 @@ Producing a system card requires coordination among multiple teams, including re
 
 Key operational challenges include:
 
-Managing review cycles
-Maintaining version control
-Resolving inconsistencies across contributors
-Tracking open questions and unresolved findings
-Ensuring publication readiness
+- Managing review cycles
+- Maintaining version control
+- Resolving inconsistencies across contributors
+- Tracking open questions and unresolved findings
+- Ensuring publication readiness
 
 The process highlights the importance of strong research operations and technical documentation practices.
 
@@ -71,11 +71,8 @@ Coming from healthcare quality improvement, I was struck by the similarities bet
 
 References
 
-Anthropic System Cards
-Anthropic Safety Documentation
-Anthropic Responsible Scaling Policy (RSP)
+- Anthropic System Cards
+- Anthropic Safety Documentation
+- Anthropic Responsible Scaling Policy (RSP)
 
-## Personal Reflection
-
-Coming from healthcare quality improvement, I was struck by the similarities between AI system cards and healthcare reporting practices. Both require organizations to communicate evidence, uncertainty, limitations, and risk to diverse stakeholders. Reviewing system cards helped me better understand how AI developers communicate model capabilities and safety considerations to the public.
 
